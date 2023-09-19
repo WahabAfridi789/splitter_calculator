@@ -29,3 +29,40 @@ To run the Tip Calculator app locally on your machine, follow these steps:
 
    ```bash
    git clone https://github.com/WahabAfridi789/tip-calculator.git
+
+
+## Live Demo
+
+You can also try out the live demo of the Tip Calculator app deployed on Vercel:
+
+[Live Demo](https://tip-calculator.vercel.app/)
+
+## How to Use the App
+
+To use the Tip Calculator app effectively:
+
+1. **Enter the Bill Amount**:
+
+   Input the bill amount in the "Bill" input field.
+
+2. **Select Tip Percentage**:
+
+   Choose a tip percentage from the provided options (5%, 10%, 15%, 20%, 30%) by clicking the corresponding buttons. Alternatively, you can click the "Custom" button to enter a custom tip percentage.
+
+3. **Enter Number of People**:
+
+   Input the number of people sharing the bill in the "Number of People" input field.
+
+4. **Calculate**:
+
+   The app will automatically calculate the tip amount and total cost per person based on your inputs.
+
+5. **Error Handling**:
+
+   If you enter a negative number of people or a negative bill amount, the app will display an error message, indicating that the tip amount must be positive.
+
+Enjoy the convenience of splitting bills and leaving tips with ease using the Tip Calculator app! 🧾💰
+
+Feel free to contribute to this project or report any issues you encounter. Happy coding! 😊🚀
+
+   
