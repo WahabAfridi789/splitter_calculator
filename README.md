@@ -28,4 +28,4 @@ To run the Tip Calculator app locally on your machine, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/tip-calculator.git
+   git clone https://github.com/WahabAfridi789/tip-calculator.git
