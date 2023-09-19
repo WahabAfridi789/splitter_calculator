@@ -1,5 +1,5 @@
-import PanelLayout from '@/app/components/PanelLayout';
-import TipForm from '@/app/components/TipForm';
+import PanelLayout from '@/components/PanelLayout';
+import TipForm from '@/components/TipForm';
 import { cn } from "@/lib/utils"; 
 import "./globals.css"
 import Image from 'next/image';
