@@ -33,16 +33,28 @@ To run the Tip Calculator app locally on your machine, follow these steps:
 2. **Navigate to the Project Directory**:
 
    ```bash
-   cd tip-calculator```
+   cd tip-calculator
 
 3. **Install Dependencies**:
 
-```bash
-npm install
-# or
-yarn install
-```
-   
+   ```bash
+   npm install
+   #or
+   yarn install
+
+4. **Run the Development Server**:
+
+   ```bash
+     npm run dev
+     # or
+     yarn dev
+
+### Open Your Browser
+
+The app should now be running on http://localhost:3000. Open your web browser and access this URL to use the Tip Calculator locally.
+
+
+
 ## Live Demo
 
 You can also try out the live demo of the Tip Calculator app deployed on Vercel:
