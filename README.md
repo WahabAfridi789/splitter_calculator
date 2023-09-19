@@ -30,12 +30,24 @@ To run the Tip Calculator app locally on your machine, follow these steps:
    ```bash
    git clone https://github.com/WahabAfridi789/tip-calculator.git
 
+2. **Navigate to the Project Directory**:
 
+   ```bash
+   cd tip-calculator```
+
+3. **Install Dependencies**:
+
+```bash
+npm install
+# or
+yarn install
+```
+   
 ## Live Demo
 
 You can also try out the live demo of the Tip Calculator app deployed on Vercel:
 
-[Live Demo](https://tip-calculator.vercel.app/)
+[Live Demo]((https://splitter-calculator-next-js.vercel.app/))
 
 ## How to Use the App
 
