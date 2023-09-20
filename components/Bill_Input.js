@@ -36,7 +36,7 @@ const Bill_Input = (props) => {
           type="text" 
           name="bill"
           id="bill"
-          className="block w-full rounded-md border-0 py-1.5 pl-7 pr-2 font-serif text-left text-gray-900 outline-none ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-cyan-500 sm:text-sm sm:leading-6"
+          className="block w-full rounded-md border-0 py-1.5 pl-7 pr-2 font-serif text-right text-gray-900 outline-none ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-cyan-500 sm:text-sm sm:leading-6"
           placeholder="0.00"
           aria-describedby="bill-currency"
           value={bill}

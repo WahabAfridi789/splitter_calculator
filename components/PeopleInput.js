@@ -38,7 +38,7 @@ const PeopleInput = ({ people, setPeople }) => {
           type="text" // Change the input type to text
           name="people"
           id="people"
-          className="block w-full rounded-md border-0 py-1.5 pl-10 pr-3 font-semibold text-blue-900 outline-none ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-cyan-500 sm:text-sm sm:leading-6"
+          className="block w-full text-right rounded-md border-0 py-1.5 pl-10 pr-3 font-semibold text-blue-900 outline-none ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-cyan-500 sm:text-sm sm:leading-6"
           placeholder="0"
           aria-describedby="number-of-people"
           value={people}
