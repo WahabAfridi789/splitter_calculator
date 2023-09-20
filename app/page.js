@@ -12,13 +12,18 @@ export default function Home() {
   return (
     <main className= {cn(" flex min-h-screen flex-col items-center justify-center p-5 lg:p-24",font.Space_Mono)}>
     
+    <div
+    className='mb-5'
+    >
       <Image 
         src="/logo.png"
         alt="logo"
         width={100}
         height={100}
-        
+      
       />
+
+    </div>
 
       <PanelLayout>
         <TipForm />
