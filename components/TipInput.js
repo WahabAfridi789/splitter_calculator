@@ -67,7 +67,7 @@ const TipInput = ({ setTip }) => {
                   type="number"
                   name="tip"
                   id="tip"
-                  className="block h-full w-full rounded-md border-0 px-2 py-1.5 text-gray-900 outline-none ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-cyan-500 sm:text-sm sm:leading-6"
+                  className="block h-full  w-full rounded-md border-0 px-2 py-1.5 text-gray-900 outline-none ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-cyan-500 sm:text-sm sm:leading-6"
                   placeholder="0.00"
                   aria-describedby="tip-amount"
                   value={customTip}
@@ -77,8 +77,9 @@ const TipInput = ({ setTip }) => {
               ) : (
                 <button
                   type="button"
-                  className={`${dynamicButtonClasses(index)}`}
+                  className="bg-[#C5E4E7] h-full w-full rounded-md text-[#114A4E] font-semibold hover:bg-[#C5E4E7] hover:text-black"
                   onClick={handleCustomTip}
+                  
                 >
                   Custom
                 </button>
