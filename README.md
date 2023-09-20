@@ -1,4 +1,4 @@
-# Tip Calculator App
+# Splitter Tip Calculator App
 
 This is a Tip Calculator web application built with Next.js. The app allows you to calculate the correct tip and total cost of the bill per person, making it easy to split the bill and leave a tip. It features a responsive design to ensure an optimal user experience on different screen sizes.
 
